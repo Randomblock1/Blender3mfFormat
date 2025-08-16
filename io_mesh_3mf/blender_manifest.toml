@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "3mf"
+version = "1.0.3"
+name = "3MF"
+tagline = "Blender add-on to import/export 3MF files"
+maintainer = "Ghostkeeper"
+type = "add-on"
+tags = ["Modeling"]
+blender_version_min = "4.0.0"
+license = ["GPL-2.0-or-later"]
